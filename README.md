@@ -1,1 +1,1 @@
-My first readme
+This is my second assignment with git 
